@@ -4,8 +4,10 @@
 Terraform commands
 
 Terraform Command Lines
+
 Terraform CLI tricks
 * terraform -install-autocomplete #Setup tab auto-completion, requires logging back in
+
 Format and Validate Terraform code
 * terraform fmt #format code per HCL canonical standard
 * terraform validate #validate code for syntax
